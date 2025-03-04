@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there, I'm Stef Keuken 👋
+I'm a frontend developer based in the Netherlands, specializing in HTML, CSS, JavaScript, and occasionally PHP. I build clean, efficient, and user-friendly interfaces with a focus on performance and accessibility.
 
-<!--
-**Kitch41/Kitch41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Tech Stack
+Frontend: HTML, CSS (Sass, Tailwind), JavaScript (ES6+), React
+Backend: PHP (occasionally)
+Tools: Git, Webpack, Vite
 
-Here are some ideas to get you started:
+🚀 What I'm Working On
+Currently improving my skills in modern frontend frameworks and optimizing UI performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Get in Touch
+GitHub: github.com/Kitch41
+LinkedIn: [linkedin.com/in/stefkeuken](https://www.linkedin.com/in/stef-keuken/)
+
+💡 Also, big fan of Magic: The Gathering—my Transformers deck is a beast!
