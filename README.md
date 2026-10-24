@@ -13,4 +13,3 @@ Currently improving my skills in modern frontend frameworks and optimizing UI pe
 GitHub: github.com/Kitch41
 LinkedIn: [linkedin.com/in/stefkeuken](https://www.linkedin.com/in/stef-keuken/)
 
-💡 Also, big fan of Magic: The Gathering—my Transformers deck is a beast!
